@@ -4,7 +4,15 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Sample</h1>
+      <div className='leftSide'>
+      </div>
+      <div className='rightSide'>
+          <div className='hourlyForcast'>
+          </div>
+          <div className='10dayForcast'></div>
+          <div className='uvIndex'></div>
+          <div className='wind'></div>
+      </div>
     </div>
   );
 }
