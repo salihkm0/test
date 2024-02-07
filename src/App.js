@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className='leftSide'>
+        something done by basha
       </div>
       <div className='rightSide'>
           <div className='hourlyForcast'>
