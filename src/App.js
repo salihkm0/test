@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className='leftSide'>
+        fdgfgfh
       </div>
       <div className='rightSide'>
           <div className='hourlyForcast'>
