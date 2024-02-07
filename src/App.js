@@ -11,7 +11,7 @@ function App() {
           <div className='hourlyForcast'>
             Edited by Salih 
           </div>
-          <div className='10dayForcast'></div>
+          <div className='10dayForcast'>this done to be in 2days</div>
           <div className='uvIndex'></div>
           <div className='wind'></div>
       </div>
