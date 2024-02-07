@@ -9,6 +9,7 @@ function App() {
       </div>
       <div className='rightSide'>
           <div className='hourlyForcast'>
+            Edited by Salih 
           </div>
           <div className='10dayForcast'></div>
           <div className='uvIndex'></div>
